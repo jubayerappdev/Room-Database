@@ -55,6 +55,7 @@ class MainActivity : AppCompatActivity(), UserAdapter.HandleUserClick {
             binding.rvUser.adapter = userAdapter
         }
     }
+    //jkhgskgswjkwekufwefhkljdfkjjkrleg
 
     override fun onEditClick(user: User) {
         val editIntent = Intent(this@MainActivity, AddUserActivity::class.java)
