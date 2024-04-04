@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="add_user">Add User</string>
+    <string name="get_user">Get User</string>
+    <string name="user_name">User Name</string>
+    <string name="user_age">User Age</string>
+    <string name="user_mobile">User Mobile</string>
+</resources>
